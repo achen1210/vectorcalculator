@@ -3,7 +3,7 @@
 @author: Andrew
 """
 #Andrew Chen
-#Vecotr Calculator
+#Vector Calculator
 
 
 #import statements 
